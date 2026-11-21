@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## James Moran  
+## GIS | Data Visualization | Climate Resilience | Ecosystem Restoration
+## R Studio Projects
+## GIS Programming
+## Maps 
+## Presentations
 <!--
 **jamesfmoran3/jamesfmoran3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
