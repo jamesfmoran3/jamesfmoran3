@@ -1,5 +1,5 @@
-## James Moran  
-## GIS | Data Visualization | Climate Resilience | Ecosystem Restoration
+## - James Moran  
+## - GIS | Data Visualization | Climate Resilience | Ecosystem Restoration
 ## R Studio Projects
 ## GIS Programming
 ## Maps 
